@@ -8,9 +8,6 @@
 </table>
 
 
-## Demo
-Here is a working live demo :  https://notezipper.herokuapp.com/
-
 ## Site
 
 ### Landing Page
